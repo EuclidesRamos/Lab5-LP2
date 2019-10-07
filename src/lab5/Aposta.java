@@ -5,6 +5,8 @@ package lab5;
  * 
  * @author Euclides Ramos - 117210377
  *
+ * @ManoMax passou por aqui devido a HacktoberFest <('-'<)
+ *
  */
 public abstract class Aposta {
 
